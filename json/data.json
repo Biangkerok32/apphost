@@ -1,4 +1,6 @@
-{"articles":[
+{
+  "articles":
+  [
     {
       "title": "Factory Had No Fire Clearance, Say Officials After Blaze at Delhi's Anaj Mandi Killed 43; Owner, Manager Held",
       "description": "Police said they have detained the property owner, identified as Mohammed Rehan, for questioning. A case has also been registered against him.",
@@ -20,5 +22,5 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2019/12/Untitled-design-2019-12-08T125225.490.png",
       "content": "New Delhi: In one of the worst fire accidents in the city, 43 people were killed after a massive blaze ripped through a four-storey building housing illegal manufacturing units in north Delhi's Anaj Mandi area on Sunday morning.\r\nThe incident is the second mo… [+7070 chars]"
     }
-]
+  ]
 }
